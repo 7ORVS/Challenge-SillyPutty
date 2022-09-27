@@ -24,14 +24,11 @@ Basic Dynamic Analysis
 
 ### Basic Static Analysis Questions:
 ---
-
 - What is the SHA256 hash of the sample? <br>
 0c82e654c09c8fd9fdf4899718efa37670974c9eec5a8fc18a167f93cea6ee83
-<br>
 ---
 - What architecture is this binary? <br>
 Win32 EXE
-<br>
 ---
 - Are there any results from submitting the SHA256 hash to VirusTotal??<br>
 Yes <br>
